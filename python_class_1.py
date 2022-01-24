@@ -74,3 +74,7 @@ def summation():
     print(sum)
     
 print(summation())
+
+"""
+    Python Functions
+"""
