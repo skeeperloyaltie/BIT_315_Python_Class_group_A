@@ -1,3 +1,6 @@
+# Python Variables
+import random
+
 # Type conversion 
 
 # convert an string to an INT
@@ -51,3 +54,23 @@ print(v, u, h)
 
 print(a + c) # Generates a Type Error
 
+
+""" 
+    Python Variables 
+        Local and Global Variables
+"""
+
+# Defining  Global variables
+
+val_a = random.randint(range(12, 100))
+
+def summation():
+    # Define Local Variables
+    
+    b = random.randint(12,67)
+    
+    sum = val_a + b
+    
+    print(sum)
+    
+print(summation())
