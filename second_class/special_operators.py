@@ -20,7 +20,6 @@ print( 5 not in a )
 
 j = [11, 12,5,14, 13, 56,67].append(a)
 
-a = j.__sizeof__()
 
 print(4 in a)
 
