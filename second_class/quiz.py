@@ -6,4 +6,4 @@ stu_3 = int(input("Enter your age sir: "))
 
 if stu_1 > stu_2 and stu_1 > stu_2 and stu_1 > stu_2:
     print("Am greatest")
-elif stu_2 > stu_1 and stu_2 > stu
+elif stu_2 > stu_1 and stu_2 > stu_2 
